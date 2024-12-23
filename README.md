@@ -1,4 +1,4 @@
-LIBRARY Manager
+LIBRARY MANAGER
 
 Library Manager is a web application designed for library administrators to manage library books, issue books to students, calculate fines for overdue returns, and search for available books.
 
